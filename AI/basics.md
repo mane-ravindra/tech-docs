@@ -1,7 +1,7 @@
 
 What is AI:
 
-AI is a technology that computer or system does which actually requires a Human Intelligence.
+AI is a technology that allow computer or system to perform particular task which actually requires a Human Intelligence.
 
 Human Intelligence:
 1.	Pattern Recognition

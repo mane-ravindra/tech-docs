@@ -40,6 +40,29 @@ y=f(x)
     * Binary classification: Yes/no, cat/dog
   - Multi Classes
 
+<img width="384" height="272" alt="image" src="https://github.com/user-attachments/assets/e70fbe58-1925-4fca-8a15-8d267159154a" />
+-
+<img width="374" height="183" alt="image" src="https://github.com/user-attachments/assets/44ccaa6c-ea91-4d20-8c0d-364806358793" />
+
+# Unsupervised Learning:
+* Models learn from unlabeled data
+<img width="441" height="254" alt="image" src="https://github.com/user-attachments/assets/b5526bef-8e86-4727-8f79-e00fae847b18" />
+
+# Reinforcement Learning:
+<img width="635" height="90" alt="image" src="https://github.com/user-attachments/assets/303d4fb3-b659-4da4-aad4-e23a72340fcd" />
+_
+<img width="365" height="242" alt="image" src="https://github.com/user-attachments/assets/4813b45d-5e9f-4d7a-99a9-d7e50b5580d3" />
+
+# Subset of ML
+* Deep Learning
+
+
+
+
+
+
+
+
 
 
 

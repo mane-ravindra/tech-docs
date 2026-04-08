@@ -27,7 +27,8 @@ Human Intelligence:
 
 # Supervised Learning:
  * Model learns from labeled data
-<img width="556" height="255" alt="image" src="https://github.com/user-attachments/assets/c65b9fbc-e7a6-49f5-86a7-cf3286b23b4a" />
+<img width="399" height="233" alt="image" src="https://github.com/user-attachments/assets/5dffcc57-c88b-4247-8ba4-379cdf08d615" />
+
 y=f(x)
 
 

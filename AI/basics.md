@@ -56,6 +56,10 @@ _
 # Subset of ML
 ## Deep Learning
 ### Neural Network
+* Consists of neurons
+* <img width="495" height="395" alt="image" src="https://github.com/user-attachments/assets/3cbba42a-9d45-450d-bf96-f6d2fedef280" />
+
+
 
 
 

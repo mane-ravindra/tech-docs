@@ -63,7 +63,9 @@ _
 
 * <img width="455" height="278" alt="image" src="https://github.com/user-attachments/assets/763ef90d-0c78-49d6-9d57-04eef9c592d5" />
 
-* 
+# Gen AI
+<img width="455" height="434" alt="image" src="https://github.com/user-attachments/assets/93f8a24e-e0b9-4f49-b6ce-a7fbedbca7f9" />
+
 
 
 

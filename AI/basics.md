@@ -15,6 +15,7 @@ Human Intelligence:
 <img width="453" height="228" alt="image" src="https://github.com/user-attachments/assets/654e0540-c3c7-42f0-b026-1f05861a5689" />
 
 <img width="468" height="439" alt="image" src="https://github.com/user-attachments/assets/ea9046f5-2f7c-47b1-b308-e27bcd60e0d9" />
+ 
  * Make a model based on Data
  * And once model is created, the same can be used to predict the newoutput
 

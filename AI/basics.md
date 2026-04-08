@@ -8,6 +8,6 @@ Human Intelligence:
 2.	Speech recognition (e.g Siri, gemini, alexa)
 3.	Image Analysis(Traffic monitoring system)
 
- <img width="554" height="398" alt="image" src="https://github.com/user-attachments/assets/b815b831-2eee-4b10-b860-74390a796202" />
+ <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b815b831-2eee-4b10-b860-74390a796202" />
 
 

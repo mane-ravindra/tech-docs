@@ -34,8 +34,8 @@ Human Intelligence:
 
 y=f(x)
 
- * Problems:
- ** Classification problems: 
+ ## Problems:
+ ### Classification problems: 
   - Finite classes: (Output is defined e.g yes or no, spam or email)
   - Binary classification: Yes/no, cat/dog
 

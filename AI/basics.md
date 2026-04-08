@@ -57,7 +57,11 @@ _
 ## Deep Learning
 ### Neural Network
 * Consists of neurons
-* <img width="495" height="395" alt="image" src="https://github.com/user-attachments/assets/3cbba42a-9d45-450d-bf96-f6d2fedef280" />
+* <img width="516" height="466" alt="image" src="https://github.com/user-attachments/assets/99c52226-f83d-4093-9179-5e64059e36b7" />
+
+<img width="305" height="436" alt="image" src="https://github.com/user-attachments/assets/01ef31b3-8428-498f-bef9-a08b8796eea6" />
+
+
 
 
 

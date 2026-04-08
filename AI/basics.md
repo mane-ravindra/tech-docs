@@ -54,7 +54,8 @@ _
 <img width="365" height="242" alt="image" src="https://github.com/user-attachments/assets/4813b45d-5e9f-4d7a-99a9-d7e50b5580d3" />
 
 # Subset of ML
-* Deep Learning
+## Deep Learning
+### Neural Network
 
 
 

@@ -25,7 +25,7 @@ Human Intelligence:
 
 <img width="493" height="274" alt="image" src="https://github.com/user-attachments/assets/987191f0-6848-4333-8068-f60c8451e276" />
 
-
+-
 <img width="249" height="203" alt="image" src="https://github.com/user-attachments/assets/0214946e-31f1-4a8e-8146-fd35d887d638" />
 
 # Supervised Learning:
